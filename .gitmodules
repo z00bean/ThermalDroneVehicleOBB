@@ -1,0 +1,3 @@
+[submodule "yv8.1.224"]
+	path = yv8.1.224
+	url = https://github.com/ultralytics/ultralytics.git
