@@ -105,6 +105,9 @@ pnnx*
 /ultralytics/assets/
 
 # Heatmaps
-.mp4
 *.mp4
+/*.mp4
 heatmap.py
+
+
+.gitignore
