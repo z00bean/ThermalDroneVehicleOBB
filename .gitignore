@@ -105,7 +105,6 @@ pnnx*
 /ultralytics/assets/
 
 # Heatmaps
-*.mp4
 heatmap.py
 
 
