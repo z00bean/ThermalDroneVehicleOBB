@@ -1,2 +1,2 @@
-The process of analyzing thermal videos to detect and track vehicles, particularly in the challenging environments of highway work zones, involves a pipeline that leverages the power of deep learning models alongside state-of-the-art computational resources. 
+The process of analyzing thermal videos to detect and track vehicles involves a pipeline that leverages the power of deep learning models alongside state-of-the-art computational resources. 
 Utilizing NVIDIA's A100 GPUs and NVIDIA RTX 4090 graphics cards, our setup was designed for high throughput and efficiency, ensuring rapid processing of extensive video datasets without compromising on the accuracy or quality of the output. 
