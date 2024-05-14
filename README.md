@@ -19,7 +19,7 @@ This work was supported by Massachusetts Department of Transportation
 > This research is part of the [Smart Work Zone Control and Performance Evaluation Based on Trajectory Data](https://www.mass.gov/doc/smart-work-zone-control-and-performance-evaluation-based-on-trajectory-data/) project, funded by the Massachusetts Department of Transportation. For further analysis and research involving radar and ground thermal cameras, please visit the repository at: [https://github.com/z00bean/SmartWorkZoneControl](https://github.com/z00bean/SmartWorkZoneControl/).
 
 
-Code review is currently in progress, and additional details and code will be provided soon.
+Code review is currently in progress. Additional details will be provided after acceptance of paper.
 
 
 
